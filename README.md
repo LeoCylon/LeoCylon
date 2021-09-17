@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LeoCylon
-- 👀 I’m interested in cute things
+- 😇 Hi, I’m @LeoCylon
+- 😺 I’m interested in cute things
 - 🌱 I’m currently learning about life?
-- 💞️ I’m looking to collaborate on CANVA
+- ☀️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
